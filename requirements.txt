@@ -1,0 +1,7 @@
+asyncio-dgram==2.0.0
+click==8.0.1
+daemonize==2.5.0
+dnspython==2.1.0
+mcstatus==6.4.0
+py-notifier==0.3.1
+six==1.16.0
